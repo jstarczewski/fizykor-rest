@@ -2,8 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="9">
-      <module name="fizykor.fizykor.main" target="1.9" />
-      <module name="fizykor.fizykor.test" target="1.9" />
+      <module name="fizykor-rest.main" target="1.9" />
+      <module name="fizykor-rest.test" target="1.9" />
+      <module name="ktor-samples.fullstack-mpp.backendMain" target="1.6" />
+      <module name="ktor-samples.fullstack-mpp.backendTest" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
